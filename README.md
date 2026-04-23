@@ -1,2 +1,8 @@
-# Java-Studies
-Personal Java studies, do not touch!
+# Java Studies ☕
+What else is there to say?
+
+## Table of Contents
+- [Sources](#sources)
+
+## Sources
+Main source: [Bro Code's full course](https://www.youtube.com/watch?v=xTtL8E4LzTQ)
