@@ -1,3 +1,5 @@
+// Variables - Managing primitive and reference values
+
 public class Class2 {
     public static void main(String[] args) {
         /*
