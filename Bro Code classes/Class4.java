@@ -1,5 +1,4 @@
 // Scanner - Mad Libs game
-
 import java.util.Scanner;
 
 public class Class4 {
