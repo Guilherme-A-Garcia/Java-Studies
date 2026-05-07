@@ -41,9 +41,5 @@ public class Class13 {
         else{
             System.out.println("Your name is valid!");
         }
-
-        // System.out.println(isNameEmpty);
-
-
     }
 }
