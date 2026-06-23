@@ -1,7 +1,6 @@
 // Arrays - Searching through the elements of arrays
 
 import java.util.Scanner;
-import javax.sound.sampled.SourceDataLine;
 
 public class Class33 {
     public static void main(String[] args){
