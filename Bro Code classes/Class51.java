@@ -19,7 +19,7 @@ public class Class51 {
             animal.speak();
         }
         else if(choice == 2){
-            animal = new Cat();
+            animal = new Cat3();
             animal.speak();
         }
         else{
@@ -41,7 +41,7 @@ class Dog3 extends Animal3{
     }
 }
 
-class Cat extends Animal3{
+class Cat3 extends Animal3{
     @Override
     void speak(){
         System.out.println("*Meow*");
