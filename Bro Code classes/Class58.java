@@ -13,7 +13,7 @@ public class Class58{
         // PrintWriter = Best for structured data, like reports or logs;
         // FileOutputStream = Best for binary files (e.g., images, audio files).
 
-        String filePath = "Bro Code classes\\test.txt";
+        String filePath = "test.txt";
         // String textContent = "I like pizza.\nIt's pretty good!"; 
         // Sure, you can separate lines with a new line character,
         // but it's better to do this for organization:
