@@ -1,4 +1,4 @@
-// PLACEHOLDER - Creating a Hangman game
+// File Management - Creating a Hangman game
 
 import java.util.Random;
 import java.io.BufferedReader;
