@@ -1,4 +1,4 @@
-//  Resource Management - Threading
+// Resource Management - Threading
 
 import java.util.Scanner;
 
