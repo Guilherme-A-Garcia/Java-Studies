@@ -6,3 +6,4 @@ What else is there to say?
 
 ## Sources
 Main source: [Bro Code's full course](https://www.youtube.com/watch?v=xTtL8E4LzTQ)
+JavaFX course: [Bro Code's JavaFX full course](https://www.youtube.com/watch?v=9XJicRt_FaI)
