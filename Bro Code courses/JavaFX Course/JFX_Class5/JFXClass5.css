@@ -1,0 +1,14 @@
+.root{  /*Applying styling to the root node*/
+    -fx-background-color:rgb(65, 65, 65);
+}
+
+.label{  /*Applying styling to an entire class of items*/
+    -fx-font-size: 20;
+    -fx-font-family: "Serif";
+    -fx-text-fill: white;
+    -fx-alignment: "center";
+}
+
+#firstLabel{  /*Applying styling to a single item by its ID*/
+    -fx-font-size: 40;
+}
