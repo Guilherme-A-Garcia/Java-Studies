@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/26" xmlns:fx="http://javafx.com/fxml/1" fx:controller="JFXClass13Controller">
+   <children>
+      <DatePicker fx:id="date" layoutX="187.0" layoutY="200.0" onAction="#getDate" prefHeight="35.0" prefWidth="226.0" AnchorPane.bottomAnchor="165.0" AnchorPane.leftAnchor="187.0" AnchorPane.rightAnchor="187.0" AnchorPane.topAnchor="200.0" />
+      <Label fx:id="label1" alignment="CENTER" contentDisplay="CENTER" layoutX="-1.0" layoutY="93.0" prefHeight="51.0" prefWidth="600.0" text="Enter a date">
+         <font>
+            <Font size="35.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
